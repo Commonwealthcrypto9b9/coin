@@ -18,7 +18,7 @@ module.exports = {
       network_id: 97,
       confirmations: 10,
       timeoutBlocks: 200,
-      networkCheckTimeout: 1500000,
+      networkCheckTimeout: 2500000,
       skipDryRun: true,
     },
     bsc: {
@@ -26,7 +26,7 @@ module.exports = {
       network_id: 56,
       confirmations: 10,
       timeoutBlocks: 200,
-      networkCheckTimeout: 1500000,
+      networkCheckTimeout: 2500000,
       skipDryRun: true,
     },
   },
